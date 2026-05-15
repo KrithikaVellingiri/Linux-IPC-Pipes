@@ -114,7 +114,8 @@ void client(int wfd, int rfd)
 ```
 
 ## OUTPUT
-<img width="955" height="970" alt="os ex 3" src="https://github.com/user-attachments/assets/439ab742-91a3-4ac8-a6a2-20d88c87ca83" />
+<img width="626" height="550" alt="os ex 3" src="https://github.com/user-attachments/assets/d3014419-9e7b-4901-9e86-2624ef750e47" />
+
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -217,11 +218,7 @@ void client()
 ```
 
 ## OUTPUT
-<img width="1920" height="983" alt="VirtualBox_Parrot Security 6 0_15_05_2026_10_33_59" src="https://github.com/user-attachments/assets/f6012dad-7eb2-4ee6-853d-a077d0d4c7ae" />
-
-## RESULT
-
-Thus the program is executed successfully
+<img width="793" height="414" alt="VirtualBox_Parrot Security 6 0_15_05_2026_10_33_59" src="https://github.com/user-attachments/assets/7da4b4e6-8a5d-43a4-a688-5c7ecd297cc5" />
 
 
 # RESULT:
